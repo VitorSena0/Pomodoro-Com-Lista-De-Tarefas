@@ -5,9 +5,8 @@ O projeto foi criado dia 17/02/2013 e seu término foi dia 23/02/2023 às 23:00
 .
 .
 .
+![Captura de tela_20230228_180416](https://user-images.githubusercontent.com/97699477/221981264-2c6c1f37-ed8c-4c72-bb9c-c26797169491.png)
 
-![Captura de tela_20230228_111020](https://user-images.githubusercontent.com/97699477/221878958-e3e0fed8-b288-4ed3-ae06-e83d04ccc62c.png)
+https://user-images.githubusercontent.com/97699477/221981223-1c83ecdf-edba-40c7-b7d8-462d8994c063.mp4
 
-https://user-images.githubusercontent.com/97699477/221885442-57729f8d-99a3-420c-b412-34f8ebfee28e.mp4
-
-![Captura de tela_20230228_111139](https://user-images.githubusercontent.com/97699477/221878927-5261587e-1cf9-4ba9-bb86-b08299704076.png)
+![Captura de tela_20230228_180529](https://user-images.githubusercontent.com/97699477/221981275-f0c0a9ec-2b78-4595-ad6d-7861d8ae4154.png)
